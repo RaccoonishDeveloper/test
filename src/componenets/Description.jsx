@@ -23,7 +23,7 @@ export default function Description() {
 						<button className="description__button">
 							<img
 								className="description__button-icon"
-								src="/Mail.svg"
+								src="/Icons/Mail.svg"
 								alt="Email Icon"
 								role="icon"
 							></img>
